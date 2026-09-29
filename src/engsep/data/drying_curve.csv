@@ -1,0 +1,29 @@
+# Moisture content (dry basis) of a filter cake dried in a tray dryer at 60 degC, 2 m/s air. Generated with a constant rate
+# of 1.2e-4 kg/(kg s) to a critical moisture of 0.54 and a linear falling-rate period to X* = 0.06, with 1.5 % noise.
+# Columns: time (s), X (kg water / kg dry solid).
+t_s,X_dry_basis
+0.0,0.9346
+300.0,0.9048
+600.0,0.8481
+900.0,0.8018
+1200.0,0.7485
+1500.0,0.7307
+1800.0,0.6795
+2100.0,0.6478
+2400.0,0.6093
+2700.0,0.5785
+3000.0,0.5504
+3300.0,0.518
+3600.0,0.4978
+3900.0,0.4816
+4200.0,0.4663
+4500.0,0.4481
+4800.0,0.4372
+5100.0,0.4375
+5400.0,0.4119
+5700.0,0.4041
+6000.0,0.3828
+6300.0,0.3787
+6600.0,0.3565
+6900.0,0.3511
+7200.0,0.3556

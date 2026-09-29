@@ -1,0 +1,10 @@
+# Equilibrium loading of phenol on activated carbon at 25 degC from batch experiments. Generated from a Langmuir
+# isotherm with q_max = 2.5 mol/kg and K = 0.3 m3/mol with 4 % noise. Columns: c (mol/m3), q (mol/kg).
+c_mol_m3,q_mol_kg
+0.5,0.3157
+1.0,0.5825
+2.0,0.8664
+5.0,1.5837
+10.0,1.9229
+20.0,2.1178
+50.0,2.3145

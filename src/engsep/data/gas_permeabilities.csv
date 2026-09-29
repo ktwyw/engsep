@@ -1,0 +1,9 @@
+# Gas permeabilities in Barrer (1 Barrer = 3.35e-16 mol m/(m2 s Pa)) of common membrane polymers at 25-35 degC.
+# Indicative values from Baker, Membrane Technology and Applications (3rd ed.), Table 8.1, and Robeson (2008).
+polymer,H2,O2,N2,CO2,CH4
+polysulfone,5.6,1.4,0.25,14.0,0.25
+cellulose acetate,2.6,0.8,0.2,6.0,0.2
+polyimide (Matrimid),28.0,2.1,0.32,10.0,0.28
+silicone rubber (PDMS),650.0,600.0,280.0,3200.0,950.0
+polycarbonate,12.0,1.4,0.3,6.5,0.36
+polyethersulfone,7.8,0.6,0.11,3.4,0.1

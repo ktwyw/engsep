@@ -1,0 +1,14 @@
+# Population density of potassium sulphate crystals from a continuous MSMPR crystalliser (tau = 40 min), by sieve
+# analysis. Generated from n = n0 exp(-L/(G tau)) with n0 = 2e17 1/(m3 m) and G = 8e-9 m/s with 5 % noise.
+# Columns: size (m), population density (1/(m3 m)).
+L_m,n_per_m3_m
+2.4999999999999998e-05,5.2807e+16
+4.9999999999999996e-05,1.5621e+16
+9.999999999999999e-05,1.1191e+15
+0.00015,8.0310e+13
+0.00019999999999999998,5.7907e+12
+0.0003,3.4855e+10
+0.00039999999999999996,1.7757e+08
+0.0005,1.0550e+06
+0.0006,5.1692e+03
+0.0007999999999999999,1.6094e-01

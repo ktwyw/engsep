@@ -1,0 +1,13 @@
+# Liquid-liquid equilibrium of acetic acid (A) - water (C) - isopropyl ether (S) at 20 degC, mass fractions;
+# raffinate (water-rich) and extract (ether-rich) ends of each tie line. Treybal, Mass-Transfer Operations (3rd ed.), Table 10.1-type data;
+# values transcribed from Seader, Henley & Roper, Example 8.1. Columns: x_A and x_S of the raffinate, y_A and y_S of the extract.
+xA_raffinate,xS_raffinate,yA_extract,yS_extract
+0.0069,0.012,0.0018,0.993
+0.0141,0.015,0.0037,0.989
+0.0289,0.016,0.0079,0.984
+0.0642,0.019,0.0193,0.971
+0.133,0.023,0.0482,0.933
+0.255,0.034,0.114,0.847
+0.367,0.044,0.216,0.715
+0.443,0.106,0.311,0.58
+0.464,0.165,0.362,0.487

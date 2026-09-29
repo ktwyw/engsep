@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use engsep in your work, please cite it as below."
+title: "engsep: separation processes in Python"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Yanwei
+    email: wangyanwei@gmail.com
+    orcid: "https://orcid.org/0000-0002-8488-9833"
+    website: "https://github.com/ktwyw"
+version: 0.1.0
+date-released: "2026-09-28"
+license: MIT
+repository-code: "https://github.com/ktwyw/engsep"
+keywords:
+  - separation processes
+  - distillation
+  - absorption
+  - extraction
+  - adsorption
+  - membranes
+  - crystallization
+  - chemical engineering
+  - engineering education
+abstract: >-
+  Readable, validated Python for an undergraduate course in separation processes - vapour-liquid
+  equilibrium and azeotropes, flash, distillation (McCabe-Thiele, shortcut, multicomponent, batch),
+  absorption and packed towers, extraction and leaching, adsorption and fixed beds, membranes,
+  crystallization, drying and evaporation - checked against analytic solutions and published data, with an
+  18-notebook course and worked solutions.
